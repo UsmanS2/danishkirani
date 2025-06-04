@@ -18,7 +18,7 @@ const LandingPage = ({ onAccessCodeSubmit }) => {
   };
 
   // Wedding date - update this to your actual date
-  const weddingDate = '2025-12-01T00:00:00';
+  const weddingDate = '2025-11-27T19:00:00';
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-pink-400 via-purple-500 to-indigo-600 flex items-center justify-center p-4">
